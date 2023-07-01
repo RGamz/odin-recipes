@@ -1,7 +1,7 @@
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 20px;
+    padding: 10px;
 }
 
 ol {
@@ -24,12 +24,12 @@ h1, h2 {
     margin: 0;
 }
 
-h1 {
+h1, h2 {
     padding: 20px;
 }
 .wrapper {
     background-color: bisque;
-    padding: 20px;
+    padding: 20px;;
 }
 
 .title {
